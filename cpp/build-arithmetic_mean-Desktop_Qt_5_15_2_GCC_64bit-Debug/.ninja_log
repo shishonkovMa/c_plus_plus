@@ -1,0 +1,9 @@
+# ninja log v5
+0	349	1681076257419806655	CMakeFiles/arithmetic_mean.dir/main.cpp.o	db8f567fb78de49c
+351	449	1681076257523807961	arithmetic_mean	5ec6790973c28cf8
+1	400	1681077571974580373	CMakeFiles/arithmetic_mean.dir/main.cpp.o	db8f567fb78de49c
+400	498	1681077572074581439	arithmetic_mean	5ec6790973c28cf8
+0	376	1681077688255817670	CMakeFiles/arithmetic_mean.dir/main.cpp.o	db8f567fb78de49c
+376	473	1681077688351818690	arithmetic_mean	5ec6790973c28cf8
+0	404	1681077770732615065	CMakeFiles/arithmetic_mean.dir/main.cpp.o	db8f567fb78de49c
+404	497	1681077770828615808	arithmetic_mean	5ec6790973c28cf8

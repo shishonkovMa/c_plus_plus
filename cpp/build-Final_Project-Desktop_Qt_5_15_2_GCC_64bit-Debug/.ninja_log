@@ -1,0 +1,6 @@
+# ninja log v5
+0	1103	1683307415931513635	CMakeFiles/Final_Project.dir/main.cpp.o	684563420d7c0c70
+0	771	1683307560517087487	CMakeFiles/EmployeeRegister.dir/main.cpp.o	2b24f22d488597e7
+1	840	1683307560585088226	CMakeFiles/EmployeeRegister.dir/Record.cpp.o	12b1358c089a4682
+0	1310	1683307561053093320	CMakeFiles/EmployeeRegister.dir/Register.cpp.o	9a828cd23231298a
+1310	2109	1683307561857102071	EmployeeRegister	634bd3ef7afd1b60
